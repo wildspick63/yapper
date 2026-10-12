@@ -1,0 +1,20 @@
+{
+    "schema": 1,
+    "author": "wildspick63",
+    "presets": [
+        {
+            "id": "yapper",
+            "name": "yapper",
+            "description": "",
+            "version": "1.0.0",
+            "configVersion": 29,
+            "path": "presets/yapper",
+            "wallpaper": "presets/yapper/wallpaper.jpg",
+            "banner": "presets/yapper/banner.png",
+            "screenshots": [
+                "presets/yapper/screenshots/1-32894030.png",
+                "presets/yapper/screenshots/2-baf9c1b8.png"
+            ]
+        }
+    ]
+}

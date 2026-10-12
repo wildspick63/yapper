@@ -1,0 +1,22 @@
+{
+    "schema": 1,
+    "name": "yapper",
+    "author": "wildspick63",
+    "description": "",
+    "version": "1.0.0",
+    "configVersion": 29,
+    "config": "config.json",
+    "screenshots": [
+        "screenshots/1-32894030.png",
+        "screenshots/2-baf9c1b8.png"
+    ],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-10-12",
+            "notes": "First release."
+        }
+    ],
+    "wallpaper": "wallpaper.jpg",
+    "banner": "banner.png"
+}
